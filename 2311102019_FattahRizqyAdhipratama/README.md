@@ -211,7 +211,7 @@ S1IF-11-05 -->
 ```
 
 # Output
-![alt text](<Screenshot (1165).png>)
+![alt text](assets/<Screenshot (1165).png>)
 ![alt text](<Screenshot (1166).png>)
 ![alt text](<Screenshot (1167).png>)
 ![alt text](<Screenshot (1168).png>)
